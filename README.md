@@ -1,3 +1,5 @@
+###### PRODUCT_MANAGEMENT_SYSTEM
+
 This project demonstrates a complete REST API implementation using Hibernate and MySQL. The API performs all CRUD operations and additional features on specific entities like Product, Supplier, and Category. It is designed to help understand Hibernate integration in a Java Spring application with practical examples.
 
 **Features Product Management**
